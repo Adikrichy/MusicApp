@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_lyrics"
+        android:title="Lyrics"
+        android:icon="@drawable/ic_lyrics"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_like"
+        android:title="Like"
+        android:icon="@drawable/ic_thumb_up"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200" />
+
+    <item
+        android:id="@+id/menu_dislike"
+        android:title="Dislike"
+        android:icon="@drawable/ic_thumb_down"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="300" />
+</menu>

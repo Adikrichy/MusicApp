@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="form_register">Register Account</string>
+    <string name="form_register_username">Username</string>
+    <string name="form_register_email">Email</string>
+    <string name="form_register_password">Password</string>
+    <string name="form_register_confirmPass">Confirm Password</string>
+    <string name="form_register_btnRegister">Register</string>
+    <string name="form_verifyEmail_btnResend">Try Again</string>
+    <string name="form_verifyEmail_Loading">Verifying email...</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="toggle_password_visibility">Toggle Password Visibility</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="toggle_confirm_password_visibility">Toggle Confirm Password Visibility</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="hi_welcome_back">Hi, Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="or_with">------- Or With -------</string>
+    <string name="search_hint">Search songs, artist, album...</string>
+    <string name="trending_artists">Trending artists</string>
+</resources>
